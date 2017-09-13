@@ -1,3 +1,2 @@
 # invitationsHub
-This is a test commit
-An implementation of invitation based authentication
+An Implementation of invitation based authentication
