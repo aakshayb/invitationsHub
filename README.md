@@ -1,2 +1,2 @@
 # invitationsHub
-Implementation of invitation based authentication
+An Implementation of invitation based authentication
